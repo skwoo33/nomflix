@@ -18,6 +18,9 @@ const globalStyles = createGlobalStyle`
     color:white;
     padding-top:50px;
   }
+  /* html,body {
+    height:100%;
+  } */
 `;
 
 export default globalStyles;
